@@ -1,4 +1,3 @@
-"""Regenerate the quadrature tables and figures: python reproduce.py."""
 from fractions import Fraction as F
 from math import isqrt, comb
 from pathlib import Path
